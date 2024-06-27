@@ -79,7 +79,7 @@ header {
       rgba(0, 0, 0, 0.7),
       rgba(0, 0, 0, 0.7)
     ),
-    url('img/banner.png');
+    url('banner.png');
   background-position: bottom;
   background-size: cover;
   display: flex;
